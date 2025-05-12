@@ -1,6 +1,0 @@
-com\nayanecosta\qrcode\generator\controller\QrCodeController.class
-com\nayanecosta\qrcode\generator\infrastructure\S3StorageAdapter.class
-com\nayanecosta\qrcode\generator\ports\StoragePort.class
-com\nayanecosta\qrcode\generator\Application.class
-com\nayanecosta\qrcode\generator\dto\QrCodeGeneratorResponse.class
-com\nayanecosta\qrcode\generator\dto\QrCodeGeneratorRequest.class
