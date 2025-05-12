@@ -84,7 +84,7 @@ AWS_BUCKET_NAME=your_bucket_name
 
 > **Note**: This diagram was built on [Mermaid Online Editor](https://www.mermaidchart.com/app/projects/d95a6b85-4fcc-442f-827b-da6d7a456612/diagrams/f54eab59-6c0f-42d4-86ab-1afa9cee30ce/version/v0.1/edit).
 
-<img src="./.github/diagram.svg"/>
+<img src="./github/diagram.svg"/>
 
 ## API Endpoints
 
