@@ -1,0 +1,7 @@
+C:\Users\nayan\OneDrive\Documentos\Codes\qrcode.generator\src\main\java\com\nayanecosta\qrcode\generator\Application.java
+C:\Users\nayan\OneDrive\Documentos\Codes\qrcode.generator\src\main\java\com\nayanecosta\qrcode\generator\controller\QrCodeController.java
+C:\Users\nayan\OneDrive\Documentos\Codes\qrcode.generator\src\main\java\com\nayanecosta\qrcode\generator\dto\QrCodeGeneratorRequest.java
+C:\Users\nayan\OneDrive\Documentos\Codes\qrcode.generator\src\main\java\com\nayanecosta\qrcode\generator\dto\QrCodeGeneratorResponse.java
+C:\Users\nayan\OneDrive\Documentos\Codes\qrcode.generator\src\main\java\com\nayanecosta\qrcode\generator\infrastructure\S3StorageAdapter.java
+C:\Users\nayan\OneDrive\Documentos\Codes\qrcode.generator\src\main\java\com\nayanecosta\qrcode\generator\ports\StoragePort.java
+C:\Users\nayan\OneDrive\Documentos\Codes\qrcode.generator\src\main\java\com\nayanecosta\qrcode\generator\service\QrCodeGeneratorService.java
